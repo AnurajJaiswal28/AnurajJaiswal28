@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I am Anuraj Jaiswal!
 
-<!--
-**AnurajJaiswal28/AnurajJaiswal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Full-Stack Development
+- Aspiring to become a skilled Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+| Category | Technologies |
+|------------|-----------------------------------------------------|
+| Languages | Python (Beginner), Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
+| Development | HTML, CSS, JavaScript (Learning) |
+
+## Featured Projects
+
+- [CSE103 Lab — LAB 3](https://github.com/AnurajJaiswal28/cse103-lab-LAB3)
+
+  Git workflows, API interaction, and Markdown documentation.
+
+## Currently Working On
+
+- Semester 1 lab projects.
+- Learning Full-Stack Development.
+- Improving coding and problem-solving skills.
+
+## Connect With Me
+
+- GitHub: https://github.com/AnurajJaiswal28
+- LinkedIn: [https://www.linkedin.com/in/anuraj-jaiswal-898b3542b/]
+- Email: anurajjaiswal630@gmail.com
