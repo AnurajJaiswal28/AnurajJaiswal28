@@ -19,7 +19,7 @@
 ## Featured Projects
 
 - [CSE103 Lab — LAB 3](https://github.com/AnurajJaiswal28/cse103-lab-LAB3)
-
+- [Developer Ecosystem Portfolio](https://github.com/AnurajJaiswal28/DeveloperPortfolio)
   Git workflows, API interaction, and Markdown documentation.
 
 ## Currently Working On
@@ -31,5 +31,5 @@
 ## Connect With Me
 
 - GitHub: https://github.com/AnurajJaiswal28
-- LinkedIn: [https://www.linkedin.com/in/anuraj-jaiswal-898b3542b/][https://www.linkedin.com/in/anuraj-jaiswal-8029a6451]
+- LinkedIn: [Anuraj Jaiswal](https://www.linkedin.com/in/anuraj-jaiswal-8029a6451/)
 - Email: anurajjaiswal630@gmail.com
