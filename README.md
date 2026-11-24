@@ -20,6 +20,7 @@
 
 - [CSE103 Lab — LAB 3](https://github.com/AnurajJaiswal28/cse103-lab-LAB3)
 - [Developer Ecosystem Portfolio](https://github.com/AnurajJaiswal28/DeveloperPortfolio)
+- Linux documentation, Bash automation scripts, REST API and JSON processing, professional resume, learning roadmap, and live portfolio website.
   Git workflows, API interaction, and Markdown documentation.
 
 ## Currently Working On
