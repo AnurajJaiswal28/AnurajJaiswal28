@@ -31,5 +31,5 @@
 ## Connect With Me
 
 - GitHub: https://github.com/AnurajJaiswal28
-- LinkedIn: [https://www.linkedin.com/in/anuraj-jaiswal-898b3542b/]
+- LinkedIn: [https://www.linkedin.com/in/anuraj-jaiswal-898b3542b/][https://www.linkedin.com/in/anuraj-jaiswal-8029a6451]
 - Email: anurajjaiswal630@gmail.com
